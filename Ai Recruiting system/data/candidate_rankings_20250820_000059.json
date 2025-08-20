@@ -1,0 +1,140 @@
+{
+  "job_position": "Senior Ruby Developer",
+  "required_skills": [
+    "Ruby",
+    "Rails",
+    "PostgreSQL",
+    "React",
+    "Git",
+    "API",
+    "Agile"
+  ],
+  "candidates_analyzed": 4,
+  "rankings": [
+    {
+      "name": "Bob Chen",
+      "skills": [
+        "Ruby",
+        "Rails",
+        "React",
+        "MySQL",
+        "Git",
+        "API",
+        "Agile"
+      ],
+      "experience": 4,
+      "matched_skills": [
+        "Ruby",
+        "Rails",
+        "React",
+        "Git",
+        "API",
+        "Agile"
+      ],
+      "skill_score": 85.7,
+      "exp_score": 80,
+      "overall_score": 84.0,
+      "ranking": "🥈 STRONG CANDIDATE",
+      "level": 2,
+      "source": "Simulated"
+    },
+    {
+      "name": "Alice Johnson",
+      "skills": [
+        "Ruby",
+        "Rails",
+        "PostgreSQL",
+        "JavaScript",
+        "Docker",
+        "AWS"
+      ],
+      "experience": 6,
+      "matched_skills": [
+        "Ruby",
+        "Rails",
+        "PostgreSQL"
+      ],
+      "skill_score": 42.9,
+      "exp_score": 100,
+      "overall_score": 60.0,
+      "ranking": "🥉 POTENTIAL CANDIDATE",
+      "level": 3,
+      "source": "Simulated"
+    },
+    {
+      "name": "Carol Davis",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "React",
+        "Git"
+      ],
+      "experience": 8,
+      "matched_skills": [
+        "PostgreSQL",
+        "React",
+        "Git"
+      ],
+      "skill_score": 42.9,
+      "exp_score": 95,
+      "overall_score": 58.5,
+      "ranking": "🥉 POTENTIAL CANDIDATE",
+      "level": 3,
+      "source": "Simulated"
+    },
+    {
+      "name": "John Smith",
+      "skills": [
+        "ruby",
+        "rails",
+        "javascript",
+        "react",
+        "python",
+        "sql",
+        "postgresql",
+        "mysql",
+        "mongodb",
+        "redis",
+        "aws",
+        "docker",
+        "kubernetes",
+        "git",
+        "vue",
+        "node.js"
+      ],
+      "experience": 0,
+      "matched_skills": [
+        "ruby",
+        "rails",
+        "react",
+        "postgresql",
+        "git"
+      ],
+      "skill_score": 71.4,
+      "exp_score": 20,
+      "overall_score": 56.0,
+      "ranking": "🥉 POTENTIAL CANDIDATE",
+      "level": 3,
+      "source": "Real Resume"
+    }
+  ],
+  "top_3_recommendations": [
+    {
+      "name": "Bob Chen",
+      "score": 84.0,
+      "ranking": "🥈 STRONG CANDIDATE"
+    },
+    {
+      "name": "Alice Johnson",
+      "score": 60.0,
+      "ranking": "🥉 POTENTIAL CANDIDATE"
+    },
+    {
+      "name": "Carol Davis",
+      "score": 58.5,
+      "ranking": "🥉 POTENTIAL CANDIDATE"
+    }
+  ],
+  "timestamp": "2025-08-20 00:00:59 -0500"
+}

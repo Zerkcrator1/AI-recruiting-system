@@ -1,0 +1,72 @@
+{
+  "success": true,
+  "file_path": "C:\\Users\\zerkc\\OneDrive\\Documents\\Ai Recruiting system\\resumes\\sample_resume.txt",
+  "candidate_name": "John Smith",
+  "resume_text": "John Smith\nSenior Ruby Developer\njohn.smith@email.com | (555) 123-4567 | San Francisco, CA\nLinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith\nPortfolio: johnsmith.dev\n\nPROFESSIONAL SUMMARY\nExperienced full-stack developer with 8+ years of expertise in Ruby on Rails, JavaScript, and modern web technologies. Proven track record of leading development teams and delivering scalable applications for high-growth startups and enterprise clients. Passionate about clean code, test-driven development, and mentoring junior developers.\n\nTECHNICAL SKILLS\nProgramming Languages: Ruby, JavaScript, Python, SQL\nFrameworks: Ruby on Rails, React, Vue.js, Node.js\nDatabases: PostgreSQL, MySQL, Redis, MongoDB\nCloud & DevOps: AWS, Docker, Kubernetes, Jenkins, CI/CD\nTools: Git, RSpec, Capybara, Jest, Webpack\nMethodologies: Agile, Scrum, TDD, Code Reviews\n\nWORK EXPERIENCE\n\nSenior Ruby Developer - TechCorp Inc\nMarch 2021 - Present (3 years)\n• Led a team of 5 developers in building a microservices architecture serving 1M+ users\n• Implemented automated testing pipeline reducing deployment time by 60%\n• Mentored 3 junior developers and conducted code reviews\n• Architected RESTful APIs and integrated third-party services\n• Improved application performance by 40% through database optimization\n\nRuby Developer - StartupXYZ\nJune 2019 - February 2021 (1 year 8 months)\n• Developed customer-facing web applications using Ruby on Rails and React\n• Collaborated with product team to define technical requirements\n• Implemented payment processing integration with Stripe API\n• Built responsive front-end components and maintained 95% test coverage\n\nFull-Stack Developer - WebSolutions LLC\nAugust 2016 - May 2019 (2 years 9 months)\n• Built e-commerce platforms for small and medium businesses\n• Developed custom CMS solutions using Ruby on Rails\n• Managed client relationships and technical project delivery\n• Implemented SEO optimization and performance monitoring\n\nJunior Developer - CodeFactory\nJanuary 2015 - July 2016 (1 year 6 months)\n• Maintained legacy Ruby applications and added new features\n• Fixed bugs and improved code quality through refactoring\n• Learned Ruby on Rails best practices and design patterns\n• Participated in daily standups and sprint planning\n\nEDUCATION\n\nBachelor of Science in Computer Science\nUniversity of California, Berkeley\nGraduated: May 2014\nRelevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering\n\nCERTIFICATIONS\nAWS Certified Solutions Architect - Associate (2022)\nCertified ScrumMaster (CSM) - Scrum Alliance (2021)\nRuby Association Certified Ruby Programmer Silver (2018)\n\nLANGUAGES\nEnglish (Native)\nSpanish (Conversational)\nFrench (Basic)\n\nACHIEVEMENTS\n• Led migration from monolithic to microservices architecture\n• Reduced customer onboarding time by 50% through automation\n• Contributed to open-source projects with 500+ GitHub stars\n• Speaker at RubyConf 2022 - \"Scaling Rails Applications\"\n\nPROJECTS\nPersonal Finance Tracker - Built with Ruby on Rails and React\n• Developed budgeting and expense tracking application\n• Implemented secure authentication and data visualization\n• Deployed on Heroku with CI/CD pipeline\n\nINTERESTS\nOpen source contributions, technology mentoring, rock climbing, photography\n",
+  "ai_analysis": "Error: 401 - Unauthorized",
+  "extracted_data": {
+    "candidate_name": "John Smith",
+    "skills": [
+      "ruby",
+      "rails",
+      "javascript",
+      "react",
+      "python",
+      "sql",
+      "postgresql",
+      "mysql",
+      "mongodb",
+      "redis",
+      "aws",
+      "docker",
+      "kubernetes",
+      "git",
+      "vue",
+      "node.js"
+    ],
+    "total_years_experience": 0,
+    "education": [
+      {
+        "degree": "Bachelor Computer Science",
+        "institution": "Institution not specified"
+      },
+      {
+        "degree": "Associate (2022)",
+        "institution": "Institution not specified"
+      }
+    ],
+    "contact_info": {
+      "email": "john.smith@email.com",
+      "phone": "(555) 123-4567",
+      "location": "Francisco, CA"
+    },
+    "work_experience": [
+      {
+        "title": "Senior Ruby Developer",
+        "company": "TechCorp Inc",
+        "duration": "Duration not specified"
+      },
+      {
+        "title": "March 2021",
+        "company": "Present (3 years)",
+        "duration": "Duration not specified"
+      },
+      {
+        "title": "Ruby Developer",
+        "company": "StartupXYZ",
+        "duration": "Duration not specified"
+      },
+      {
+        "title": "June 2019",
+        "company": "February 2021 (1 year 8 months)",
+        "duration": "Duration not specified"
+      },
+      {
+        "title": "Full-Stack Developer",
+        "company": "WebSolutions LLC",
+        "duration": "Duration not specified"
+      }
+    ]
+  },
+  "timestamp": "2025-08-19 23:52:23 -0500"
+}

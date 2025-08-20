@@ -1,0 +1,79 @@
+John Smith
+Senior Ruby Developer
+john.smith@email.com | (555) 123-4567 | San Francisco, CA
+LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+Portfolio: johnsmith.dev
+
+PROFESSIONAL SUMMARY
+Experienced full-stack developer with 8+ years of expertise in Ruby on Rails, JavaScript, and modern web technologies. Proven track record of leading development teams and delivering scalable applications for high-growth startups and enterprise clients. Passionate about clean code, test-driven development, and mentoring junior developers.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, JavaScript, Python, SQL
+Frameworks: Ruby on Rails, React, Vue.js, Node.js
+Databases: PostgreSQL, MySQL, Redis, MongoDB
+Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, CI/CD
+Tools: Git, RSpec, Capybara, Jest, Webpack
+Methodologies: Agile, Scrum, TDD, Code Reviews
+
+WORK EXPERIENCE
+
+Senior Ruby Developer - TechCorp Inc
+March 2021 - Present (3 years)
+• Led a team of 5 developers in building a microservices architecture serving 1M+ users
+• Implemented automated testing pipeline reducing deployment time by 60%
+• Mentored 3 junior developers and conducted code reviews
+• Architected RESTful APIs and integrated third-party services
+• Improved application performance by 40% through database optimization
+
+Ruby Developer - StartupXYZ
+June 2019 - February 2021 (1 year 8 months)
+• Developed customer-facing web applications using Ruby on Rails and React
+• Collaborated with product team to define technical requirements
+• Implemented payment processing integration with Stripe API
+• Built responsive front-end components and maintained 95% test coverage
+
+Full-Stack Developer - WebSolutions LLC
+August 2016 - May 2019 (2 years 9 months)
+• Built e-commerce platforms for small and medium businesses
+• Developed custom CMS solutions using Ruby on Rails
+• Managed client relationships and technical project delivery
+• Implemented SEO optimization and performance monitoring
+
+Junior Developer - CodeFactory
+January 2015 - July 2016 (1 year 6 months)
+• Maintained legacy Ruby applications and added new features
+• Fixed bugs and improved code quality through refactoring
+• Learned Ruby on Rails best practices and design patterns
+• Participated in daily standups and sprint planning
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley
+Graduated: May 2014
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate (2022)
+Certified ScrumMaster (CSM) - Scrum Alliance (2021)
+Ruby Association Certified Ruby Programmer Silver (2018)
+
+LANGUAGES
+English (Native)
+Spanish (Conversational)
+French (Basic)
+
+ACHIEVEMENTS
+• Led migration from monolithic to microservices architecture
+• Reduced customer onboarding time by 50% through automation
+• Contributed to open-source projects with 500+ GitHub stars
+• Speaker at RubyConf 2022 - "Scaling Rails Applications"
+
+PROJECTS
+Personal Finance Tracker - Built with Ruby on Rails and React
+• Developed budgeting and expense tracking application
+• Implemented secure authentication and data visualization
+• Deployed on Heroku with CI/CD pipeline
+
+INTERESTS
+Open source contributions, technology mentoring, rock climbing, photography
